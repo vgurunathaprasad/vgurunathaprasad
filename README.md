@@ -1,5 +1,5 @@
 ### Hi there, this is Gurunatha Prasad 👋
-#### JASD (Just another Software Developer)
+
 
 - 🔭 I’m currently working on Nithya - a Public Transport Locating App (Personal Project)
 - 🌱 I’m currently learning ReactJS
